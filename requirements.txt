@@ -223,9 +223,6 @@ pythreejs==2.3.0
 pytz==2020.1
 pyviz-comms==2.1.0
 PyWavelets==1.1.1
-pywin32==227
-pywin32-ctypes==0.2.0
-pywinpty==0.5.7
 PyYAML==5.3.1
 pyzmq==19.0.1
 QDarkStyle==2.8.1
